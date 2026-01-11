@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm KP Sumanth
 
-<!--
-**Sumanth069/Sumanth069** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student from India who enjoys solving problems using code.  
+I'm interested in **backend development, APIs, and AI-powered applications**.
+🚀 Learning by doing, breaking, and improving
 
-Here are some ideas to get you started:
+- 📧 Email: **kpsumanth212@gmai.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/kp-sumanth-9306142a3/**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun Facts About Me
+⚙️  I believe the best way to learn programming is to **build first and perfect later**.
+
+🧠 I google better than I memorize
+
+
+
+
+⭐ Feel free to check out my repositories and follow my journey!
