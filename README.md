@@ -8,7 +8,6 @@ I'm interested in **backend development, APIs, and AI-powered applications**.
 - 📧 Email: **kpsumanth212@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/kp-sumanth-9306142a3/**
 
-## ⚡ Fun Facts About Me
 ⚙️  I believe the best way to learn programming is to **build first and perfect later**.
 
 🧠 I google better than I memorize
