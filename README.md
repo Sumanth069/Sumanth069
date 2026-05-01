@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://kp-portfolio212.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-kp--portfolio212.vercel.app-0f172a?style=for-the-badge" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-kp--portfolio-0f172a?style=for-the-badge" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/kp-sumanth-9306142a3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
