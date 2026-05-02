@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines= System.out.println(%22Hi%2C+I%27m+KP+Sumanth!%22);AI+Enthusiast+%26+Developer;Music+Lover+%F0%9F%8E%A7;%3E_Build+first%2C+perfect+later" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=System.out.println(%22Hi%2C+I%27m+KP+Sumanth!%22);AI+Enthusiast+%26+Developer;Music+Lover+%F0%9F%8E%A7;%3E_Build+first%2C+perfect+later" alt="Typing SVG" />
 </div>
 
 <p align="center">
