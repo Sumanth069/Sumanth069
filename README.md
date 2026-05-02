@@ -22,7 +22,7 @@
 {
   "name": "KP Sumanth",
   "education": "Computer Science & Engineering",
-  "interests": ["Artificial Intelligence", "Software Engineering", "Music Production 🎧"],
+  "interests": ["Artificial Intelligence", "Software Engineering", "Music 🎧"],
   "philosophy": "I google better than I memorize. 🧠",
   "contact": "kpsumanth212@gmail.com"
 }
